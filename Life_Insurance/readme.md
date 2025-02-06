@@ -30,6 +30,33 @@ Life insurance is a contract between you (the policyholder) and an insurance com
 
 ----------
 
+## **The Life Insurance Process**
+
+```mermaid
+sequenceDiagram
+    participant A as Insurance Agent
+    participant B as Policyholder
+    participant C as Underwriter
+    participant D as Insurance Company
+    participant E as Beneficiary
+
+    A->>B: Discuss Life Insurance Options
+    B->>A: Choose Policy & Apply
+    A->>C: Underwriting Process
+    C->>D: Review Application & Approve
+    D->>B: Issue Policy & Premium Collection
+
+    B->>E: Designate Beneficiaries
+    E->>D: Receive Death Benefit (Upon Death of Policyholder)
+    D->>E: Payout Death Benefit
+
+    Note right of E: End of Insurance Process
+
+
+```
+
+----------
+
 ## **Step 2: Choosing the Right Life Insurance Policy**
 
 There are several types of life insurance policies, each designed to meet different needs.
@@ -196,32 +223,6 @@ There are several types of life insurance policies, each designed to meet differ
 | **Final Expense**   | Lifetime       | ✅ Small              | Moderate  | Fixed        | Funeral and end-of-life expenses |
 | **AD&D**           | Until policy expires | ❌ None         | Low       | Accident-only | High-risk occupations, extra coverage |
 
-----------
-
-## **Step 3: The Life Insurance Process**
-
-```mermaid
-sequenceDiagram
-    participant A as Insurance Agent
-    participant B as Policyholder
-    participant C as Underwriter
-    participant D as Insurance Company
-    participant E as Beneficiary
-
-    A->>B: Discuss Life Insurance Options
-    B->>A: Choose Policy & Apply
-    A->>C: Underwriting Process
-    C->>D: Review Application & Approve
-    D->>B: Issue Policy & Premium Collection
-
-    B->>E: Designate Beneficiaries
-    E->>D: Receive Death Benefit (Upon Death of Policyholder)
-    D->>E: Payout Death Benefit
-
-    Note right of E: End of Insurance Process
-
-
-```
 
 ----------
 
