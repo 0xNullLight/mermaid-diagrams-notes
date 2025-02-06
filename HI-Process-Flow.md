@@ -161,6 +161,6 @@ In cases of **disability** or **death**, certain legal documents may be required
 -   The **Claims Processor** and **Provider Biller** ensure that all paperwork and payments are accurately handled between the insurance company and medical provider.
 -   Ensure that all your details, such as insurance information, are up to date to prevent errors in billing or claim submissions.
 -   **It's important to understand that "Health Insurance" is not the same thing as "Life Insurance"** however they can overlap in **care**.
--   Above when mentioning the living will and trust, that's a part of estate planning; has nothing to do with health insurance, but it's important to understand the overlap.
+-   Above when mentioning the living will and trust, that's a part of estate planning. In general, it has nothing to do with health insurance, but it's important to understand the overlap that's why it's mention here.
 
 This process represents a **typical flow** for health insurance billing and claims, and while it can be straightforward for most, understanding the roles and steps helps you navigate the complexities when any unexpected issues arise.
