@@ -186,101 +186,15 @@ There are several types of life insurance policies, each designed to meet differ
 
 ## **Comparison Table of Life Insurance Policies**
 
-Policy Type
-
-Duration
-
-Cash Value
-
-Premiums
-
-Death Benefit
-
-Best For
-
-**Term Life**
-
-10-30 years
-
-❌ None
-
-Low
-
-Fixed
-
-Temporary needs, affordability
-
-**Whole Life**
-
-Lifetime
-
-✅ Guaranteed
-
-High
-
-Fixed
-
-Long-term security, wealth building
-
-**Universal Life (UL)**
-
-Lifetime
-
-✅ Interest-based
-
-Flexible
-
-Adjustable
-
-Flexibility in payments and coverage
-
-**Index UL (IUL)**
-
-Lifetime
-
-✅ Linked to market index
-
-Flexible
-
-Adjustable
-
-Growth potential with downside protection
-
-**Variable UL (VUL)**
-
-Lifetime
-
-✅ Market-based investments
-
-Flexible
-
-Adjustable
-
-Investors comfortable with risk
-
-**Final Expense**
-
-Lifetime
-
-✅ Small
-
-Moderate
-
-Fixed
-
-Funeral and end-of-life expenses
-
-**AD&D**
-
-Until policy expires
-
-❌ None
-
-Low
-
-Accident-only
-
-High-risk occupations, extra coverage
+| Policy Type         | Duration       | Cash Value            | Premiums  | Death Benefit | Best For |
+|---------------------|---------------|-----------------------|-----------|--------------|----------|
+| **Term Life**       | 10-30 years    | ❌ None               | Low       | Fixed        | Temporary needs, affordability |
+| **Whole Life**      | Lifetime       | ✅ Guaranteed         | High      | Fixed        | Long-term security, wealth building |
+| **Universal Life (UL)** | Lifetime  | ✅ Interest-based    | Flexible  | Adjustable   | Flexibility in payments and coverage |
+| **Index UL (IUL)**  | Lifetime       | ✅ Linked to market index | Flexible  | Adjustable   | Growth potential with downside protection |
+| **Variable UL (VUL)** | Lifetime   | ✅ Market-based investments | Flexible  | Adjustable   | Investors comfortable with risk |
+| **Final Expense**   | Lifetime       | ✅ Small              | Moderate  | Fixed        | Funeral and end-of-life expenses |
+| **AD&D**           | Until policy expires | ❌ None         | Low       | Accident-only | High-risk occupations, extra coverage |
 
 ----------
 
