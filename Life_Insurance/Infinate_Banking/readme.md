@@ -353,5 +353,32 @@ Here’s how to effectively structure a Whole Life Policy for Infinite Banking:
 -   Choose a whole life policy from an **insurance company with a strong dividend-paying history** to maximize this benefit.
 -   Reinvest dividends into **Paid-Up Additions** to **further accelerate** the growth of your policy’s cash value.
 
+----------
+
+All of this **"Infinite Banking"** stuff only works **IF**:
+
+1. **You Stick to a Long-Term Plan** – Infinite Banking requires consistent funding and patience. The strategy isn't a quick fix; it’s about building wealth over time. If you’re not committed to maintaining the policy for several years (typically 10+), you won’t see the cash value growth needed to leverage the system effectively.
+
+2. **You Can Afford the Higher Premiums** – Whole Life insurance premiums are generally much higher than Term Life. If you're not in a financial position to handle the initial costs, this strategy might be difficult to sustain. You need to ensure that your budget allows for the premiums without straining your finances.
+
+3. **You Properly Structure the Policy** – Not all Whole Life insurance policies are created equal. To maximize the benefits of Infinite Banking, the policy must be structured with the right features, such as Paid-Up Additions (PUAs) and non-direct recognition loans. These features help accelerate the growth of cash value and ensure your money continues to earn while you borrow.
+
+4. **You’re Disciplined About Repaying Loans** – One of the biggest advantages of Infinite Banking is the ability to borrow against your policy. However, to truly benefit from this system, you must be diligent about repaying the loans, including interest. If you don't stay on top of repayments, your cash value could dwindle, reducing the long-term potential of your policy.
+
+5. **You Understand the Risks** – Like any financial strategy, there are risks involved. For instance, while cash value grows tax-deferred, it's not immune to fees and market fluctuations (in the case of IULs). If you don’t monitor the policy closely or mismanage your withdrawals and loans, it could lapse or underperform. You must approach Infinite Banking with a clear understanding of the risks involved.
+
+6. **You Have a Backup Plan** – Life can be unpredictable. If your financial situation changes, or if the policy doesn’t perform as expected, you need a contingency plan. Having a backup plan ensures that you’re not left in a vulnerable situation if things don't go as planned.
+
+7. **You Account for Inflation** – Inflation erodes purchasing power over time, which could affect the long-term value of your cash value accumulation. While Whole Life policies do have guaranteed growth, the returns may not outpace inflation, especially if you’re relying on this strategy for retirement or major expenses in the future. If inflation is high, the cash value might not grow fast enough to keep up with rising costs, meaning the real value of your policy could be lower than expected.
+
+8. **The Fees and Charges Can Be High** – Whole Life insurance policies often come with significant fees, especially in the early years. These can include administrative fees, mortality charges, and cost of insurance. In some cases, the majority of your premium in the first few years might go toward these costs rather than building cash value, which can delay the benefits you would receive from the policy.
+
+9. **Slow Cash Value Growth Early On** – While you can access the cash value of your policy, the growth is typically slow in the initial years. It may take a decade or more before the cash value begins to grow substantially, which might not be ideal for those looking for quicker returns or using the system in emergencies.
+
+10. **Complexity and Misunderstanding** – The Infinite Banking concept is complex, and many people don’t fully understand how it works. Misunderstanding the mechanics of how loans, interest, and dividends interact with the policy could lead to underperformance or mismanagement. Without expert guidance or consistent monitoring, you might miss out on the full potential of your policy.
+
+----------
+
+
 # **NOT FINANCE ADVICE!!!**
 None of this is financial advice; not something I'm doing either. It's just documentations of things I have learnt over the years.
