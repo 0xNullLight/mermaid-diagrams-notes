@@ -381,4 +381,4 @@ All of this **"Infinite Banking"** stuff only works **IF**:
 
 
 # **NOT FINANCE ADVICE!!!**
-None of this is financial advice; not something I'm doing either. It's just documentations of things I have learnt over the years.
+None of this is financial advice. It's just documentations of things I have learnt over the years.
