@@ -353,5 +353,5 @@ Here’s how to effectively structure a Whole Life Policy for Infinite Banking:
 -   Choose a whole life policy from an **insurance company with a strong dividend-paying history** to maximize this benefit.
 -   Reinvest dividends into **Paid-Up Additions** to **further accelerate** the growth of your policy’s cash value.
 
-# NOTE
+# **NOT FINANCE ADVICE!!!**
 None of this is financial advice; not something I'm doing either. It's just documentations of things I have learnt over the years.
