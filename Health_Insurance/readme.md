@@ -1,4 +1,4 @@
-# Complete Guide to Health Insurance, Medical Billing
+# Complete Guide to Health Insurance
 
 This guide provides a comprehensive breakdown of how health insurance works from the moment you sign up for a plan all the way to paying your medical bills.
 It is aimed towards someone who is trying to understand how healthcare and insurance work together.
