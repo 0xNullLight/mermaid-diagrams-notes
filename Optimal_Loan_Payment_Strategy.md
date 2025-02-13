@@ -72,8 +72,7 @@ The timing of your payments can significantly impact how much interest you pay. 
 **Before Due Date (March 1st–27th)** | Reduces your balance, but part of the payment covers the current cycle's interest. |
 **On the Due Date (March 28th)** | Covers the required payment (interest + scheduled principal). |
 **Between Due Date & Statement Date (March 28th – April 7th)**| Interest is still accruing, so part of the payment covers interest charges. |
-**After Statement Date (April 8th – Next Due Date)** | Extra payments go directly to the principal, reducing the future interest charges. ✅
-
+**After Statement Date (April 8th – Next Due Date)** | Extra payments go directly to the principal, reducing the future interest charges.
 
 📌 **Best Strategy**:
 To maximize the impact of your extra payments, make them after the **statement date** (April 8th) to ensure they go entirely toward the principal.
