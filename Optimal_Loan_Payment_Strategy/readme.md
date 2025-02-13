@@ -17,6 +17,9 @@ In fact, it’s often even more impactful on loans like **mortgages** and **auto
 
 The key principle is understanding the timing of interest accrual and how payments are applied to both interest and principal. Whether you’re managing a high-interest credit card or a long-term loan, the strategy of paying extra after the statement date (or similar key moments in the loan cycle) can help minimize interest costs and accelerate principal repayment.
 
+**Understanding how interest accrues is crucial when developing an effective loan repayment strategy.**
+Different types of loans calculate interest in different ways—some accrue interest **daily** (such as most credit cards and student loans), while others accrue **monthly** (like many mortgages and auto loans). Additionally, some loans use **simple interest**, while others **compound interest**, meaning unpaid interest is added to the balance before the next cycle begins. Because of these variations, it’s essential to **refer to your loan agreement** to determine how interest is applied to your balance. This will allow you to time your payments strategically, ensuring that extra payments reduce your principal as efficiently as possible, ultimately minimizing the total interest you pay over time.
+
 ----------
 
 ## **Visualizing the Payment Timing Strategy**
